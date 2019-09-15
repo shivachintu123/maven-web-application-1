@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sravani's -Home page</title>
+<title>Sravani Kanchibhatla's -Home page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
